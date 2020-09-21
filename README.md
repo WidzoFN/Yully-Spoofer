@@ -1,4 +1,4 @@
 # Yully-Spoofer
 Yully is a goat
 Open source did not leak <3 
-Just flt like adding it
+Just felt like adding it
